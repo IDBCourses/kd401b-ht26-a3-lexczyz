@@ -1,0 +1,33 @@
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--color-heading);
+}
+
+a {
+  color: var(--color-accent);
+}
+
+a:hover {
+  color: var(--color-accent-hover);
+}
+
+button {
+  background-color: var(--color-accent);
+  color: var(--color-bg);
+  border: none;
+  padding: 16px, 8px, 16px, 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: var(--color-accent-hover);
+}
