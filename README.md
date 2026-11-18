@@ -1,6 +1,6 @@
 # Lighthouse report
 
-Generated 2026-11-18 20:29 UTC from commit `e79ee02`.
+Generated 2026-11-18 20:50 UTC from commit `f7e5345`.
 
 | Page | Performance | Accessibility | Best practices | SEO |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@ For full explanations and advice, download **lighthouse-html-reports** from the 
 
 ## /index.html
 
+- **Max Potential First Input Delay** (290 ms)
 - **Browser errors were logged to the console**
 - **Background and foreground colors do not have a sufficient contrast ratio.**
 - **Touch targets do not have sufficient size or spacing.**
