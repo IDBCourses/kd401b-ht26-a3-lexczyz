@@ -1,0 +1,7 @@
+:root {
+  --color-bg: var(--color-linen-50);
+  --color-text: var(--color-wood-300);
+  --color-heading: var(--color-wood-500);
+  --color-accent: var(--color-foam-800);
+  --color-accent-hover: var(--color-foam-500);
+}
