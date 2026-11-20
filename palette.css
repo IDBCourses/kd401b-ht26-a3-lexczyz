@@ -1,49 +1,49 @@
 :root {
   /* linen */
-  --color-linen-50: #fefefd;
-  --color-linen-100: #fcfcf9;
-  --color-linen-200: #fafaf7;
-  --color-linen-300: #f8f8f3;
-  --color-linen-400: #f7f7f1;
-  --color-linen-500: #f5f5ed;
-  --color-linen-600: #dfdfd8;
-  --color-linen-700: #aeaea8;
-  --color-linen-800: #878782;
-  --color-linen-900: #676764;
+  --color-linen-50: hsla(60, 33.3%, 99.4%, 1);
+  --color-linen-100: hsla(60, 33.3%, 98.2%, 1);
+  --color-linen-200: hsla(60, 23.1%, 97.5%, 1);
+  --color-linen-300: hsla(60, 26.3%, 96.3%, 1);
+  --color-linen-400: hsla(60, 27.3%, 95.7%, 1);
+  --color-linen-500: hsla(60, 28.6%, 94.5%, 1);
+  --color-linen-600: hsla(60, 9.9%, 86.1%, 1);
+  --color-linen-700: hsla(60, 3.6%, 67.1%, 1);
+  --color-linen-800: hsla(60, 2%, 52%, 1);
+  --color-linen-900: hsla(60, 1.5%, 39.8%, 1);
 
   /* sand */
-  --color-sand-50: #fcfcfb;
-  --color-sand-100: #f5f5f2;
-  --color-sand-200: #f0f0eb;
-  --color-sand-300: #e9e9e2;
-  --color-sand-400: #e5e5dd;
-  --color-sand-500: #deded4;
-  --color-sand-600: #cacac1;
-  --color-sand-700: #9e9e97;
-  --color-sand-800: #7a7a75;
-  --color-sand-900: #5d5d59;
+  --color-sand-50: hsla(60, 14.3%, 98.6%, 1);
+  --color-sand-100: hsla(60, 13%, 95.5%, 1);
+  --color-sand-200: hsla(60, 14.3%, 93.1%, 1);
+  --color-sand-300: hsla(60, 13.7%, 90%, 1);
+  --color-sand-400: hsla(60, 13.3%, 88.2%, 1);
+  --color-sand-500: hsla(60, 13.2%, 85.1%, 1);
+  --color-sand-600: hsla(60, 7.8%, 77.5%, 1);
+  --color-sand-700: hsla(60, 3.5%, 60.6%, 1);
+  --color-sand-800: hsla(60, 2.1%, 46.9%, 1);
+  --color-sand-900: hsla(60, 2.2%, 35.7%, 1);
 
   /* foam */
-  --color-foam-50: #f7f8f8;
-  --color-foam-100: #e5e9e9;
-  --color-foam-200: #d9dede;
-  --color-foam-300: #c7cfcf;
-  --color-foam-400: #bdc6c6;
-  --color-foam-500: #acb8b8;
-  --color-foam-600: #9da7a7;
-  --color-foam-700: #7a8383;
-  --color-foam-800: #5f6565;
-  --color-foam-900: #484d4d;
+  --color-foam-50: hsla(180, 6.7%, 97.1%, 1);
+  --color-foam-100: hsla(180, 8.3%, 90.6%, 1);
+  --color-foam-200: hsla(180, 7%, 86.1%, 1);
+  --color-foam-300: hsla(180, 7.7%, 79.6%, 1);
+  --color-foam-400: hsla(180, 7.3%, 75.9%, 1);
+  --color-foam-500: hsla(180, 7.8%, 69.8%, 1);
+  --color-foam-600: hsla(180, 5.4%, 63.5%, 1);
+  --color-foam-700: hsla(180, 3.6%, 49.6%, 1);
+  --color-foam-800: hsla(180, 3.1%, 38.4%, 1);
+  --color-foam-900: hsla(180, 3.4%, 29.2%, 1);
 
   /* wood */
-  --color-wood-50: #ececeb;
-  --color-wood-100: #c3c3c2;
-  --color-wood-200: #a6a6a5;
-  --color-wood-300: #7e7d7c;
-  --color-wood-400: #656462;
-  --color-wood-500: #3e3d3b;
-  --color-wood-600: #383836;
-  --color-wood-700: #2c2b2a;
-  --color-wood-800: #222220;
-  --color-wood-900: #1a1a19;
+  --color-wood-50: hsla(60, 2.6%, 92.4%, 1);
+  --color-wood-100: hsla(60, 0.8%, 76.3%, 1);
+  --color-wood-200: hsla(60, 0.6%, 64.9%, 1);
+  --color-wood-300: hsla(30, 0.8%, 49%, 1);
+  --color-wood-400: hsla(40, 1.5%, 39%, 1);
+  --color-wood-500: hsla(40, 2.5%, 23.7%, 1);
+  --color-wood-600: hsla(60, 1.8%, 21.6%, 1);
+  --color-wood-700: hsla(30, 2.3%, 16.9%, 1);
+  --color-wood-800: hsla(60, 3%, 12.9%, 1);
+  --color-wood-900: hsla(60, 2%, 10%, 1);
 }
