@@ -1,6 +1,6 @@
 # Lighthouse report
 
-Generated 2026-11-18 20:50 UTC from commit `f7e5345`.
+Generated 2026-11-20 13:39 UTC from commit `e1c2e6b`.
 
 | Page | Performance | Accessibility | Best practices | SEO |
 |---|---|---|---|---|
@@ -12,10 +12,9 @@ For full explanations and advice, download **lighthouse-html-reports** from the 
 
 ## /index.html
 
-- **Max Potential First Input Delay** (290 ms)
 - **Browser errors were logged to the console**
 - **Background and foreground colors do not have a sufficient contrast ratio.**
-- **Touch targets do not have sufficient size or spacing.**
+- **Lists do not contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).**
 - **Eliminate render-blocking resources** (Est savings of 150 ms)
 - **Document does not have a meta description**
 - **Network dependency tree**
