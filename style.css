@@ -1,15 +1,60 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: var(--color-linen-700);
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: var(--color-bg);
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: var(--color-accent-hover);
+}
+h1 {
+  color: var(--color-heading1);
+  font-size: clamp(2.986rem, 1rem + 4vw, 4rem);
+}
+
+h2 {
+  color: var(--color-heading2);
+  font-size: clamp(2.488rem, 1rem + 4vw, 4rem);
+}
+
+h3 {
+  color: var(--color-heading3);
+  font-size: clamp(2.074rem, 1rem + 4vw, 3rem);
+}
+
+h4 {
+  color: var(--color-heading4);
+  font-size: clamp(1.728rem, 1rem + 4vw, 3rem);
+}
+
+h5 {
+  color: var(--color-heading5);
+  font-size: clamp(1.44rem, 1rem + 4vw, 2rem);
+}
+
+h6 {
+  color: var(--color-heading6);
+  font-size: clamp(1.2rem, 1rem + 4vw, 2rem);
+}
+
 body {
   background-color: var(--color-bg);
   color: var(--color-text);
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: var(--color-heading);
+  font-size: clamp(1rem, 1rem + 4vw, 2rem);
 }
 
 a {
